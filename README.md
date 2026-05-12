@@ -7,7 +7,7 @@
 ## 👤 About Me
 
 - 🎓 I'm smartleetommy
-- 🎓 Graduated from **University of California, Berkeley** in 2025
+- 🎓 Graduated from Carnegie Mellon University in 2025
 - 💻 A passionate front-end developer
 - 🚀 Currently working on **Vue.js / React / TypeScript** projects
 - 📚 Want to learn **Rust, System Design** and so on
